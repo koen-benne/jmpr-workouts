@@ -1,0 +1,130 @@
+name: "Tuesday Heavy Strength"
+description: "Main strength development day with injury prevention"
+estimatedDuration: 100
+phases:
+  - name: "Dynamic Warm-Up & Activation"
+    description: "Prepare for heavy lifting and activate stabilizers"
+    duration: 12
+    exercises:
+      - name: "Leg Swings & Hip Circles"
+        sets: 2
+        reps: "10 each direction"
+        restTime: 15
+        instructions: "Open up hips and activate glutes before squatting."
+        equipment: "Bodyweight"
+        
+      - name: "Bodyweight Squats"
+        sets: 2
+        reps: "10"
+        restTime: 30
+        instructions: "Full depth, focus on movement quality and knee tracking."
+        equipment: "Bodyweight"
+        
+      - name: "Glute Bridges"
+        sets: 2
+        reps: "12"
+        restTime: 30
+        instructions: "Activate glutes, squeeze at top. Essential for knee stability."
+        equipment: "Bodyweight"
+        
+      - name: "Band Pull-Aparts"
+        sets: 2
+        reps: "15"
+        restTime: 30
+        instructions: "Activate rear delts and rhomboids. Prepare shoulders."
+        equipment: "Resistance band"
+        focus: "Shoulder health"
+
+  - name: "Back Squat Progression"
+    description: "Main strength movement"
+    duration: 35
+    exercises:
+      - name: "Back Squat Warm-up Sets"
+        sets: 5
+        reps: "5, 3, 2, 1, 1"
+        restTime: 120
+        instructions: "Progressive loading: 50%, 65%, 75%, 85%, 92.5% of current max. Focus on knee tracking."
+        equipment: "Barbell + plates"
+        focus: "Maximal strength development"
+        
+      - name: "Back Squat Work Sets"
+        sets: 3
+        reps: "3"
+        restTime: 180
+        instructions: "85-90% effort. Add weight weekly. Control descent, explosive drive."
+        equipment: "Barbell + plates"
+        focus: "Progressive overload"
+
+  - name: "Deadlift Work"
+    description: "Posterior chain strength"
+    duration: 25
+    exercises:
+      - name: "Romanian Deadlift Warm-up"
+        sets: 2
+        reps: "8, 5"
+        restTime: 90
+        instructions: "60%, 75% effort. Perfect hip hinge, protect lower back."
+        equipment: "Barbell + plates"
+        
+      - name: "Romanian Deadlift Work Sets"
+        sets: 4
+        reps: "5"
+        restTime: 150
+        instructions: "Heavy but controlled. Full stretch, explosive hip drive. Core tight."
+        equipment: "Barbell + plates"
+        focus: "Posterior chain power"
+
+  - name: "Accessory Work"
+    description: "Supporting strength movements"
+    duration: 18
+    exercises:
+      - name: "Bulgarian Split Squats"
+        sets: 3
+        reps: "8 per leg"
+        restTime: 90
+        instructions: "Focus on front leg, control knee tracking. Address imbalances."
+        equipment: "Barbell or dumbbells"
+        focus: "Unilateral strength, balance"
+        
+      - name: "Walking Lunges"
+        sets: 3
+        reps: "12 per leg"
+        restTime: 60
+        instructions: "Focus on knee tracking and ankle stability."
+        equipment: "Dumbbells"
+        
+      - name: "Calf Raises"
+        sets: 3
+        reps: "15"
+        restTime: 45
+        instructions: "Full stretch at bottom, pause at top. Volleyball jump prep."
+        equipment: "Barbell or machine"
+        focus: "Jumping power, Achilles health"
+
+  - name: "Injury Prevention Finisher"
+    description: "Address volleyball-specific injury risks"
+    duration: 10
+    exercises:
+      - name: "Single-Leg Calf Raises"
+        sets: 2
+        reps: "12 per leg"
+        restTime: 30
+        instructions: "Slow controlled movement. Address Achilles/calf resilience."
+        equipment: "Bodyweight"
+        focus: "Ankle stability, Achilles health"
+        
+      - name: "Rotator Cuff External Rotations"
+        sets: 2
+        reps: "15 per arm"
+        restTime: 45
+        instructions: "Light weight, control the movement. Volleyball shoulder prep."
+        equipment: "Light dumbbell"
+        focus: "Shoulder health"
+        
+      - name: "Plank to Pike"
+        sets: 2
+        reps: "10"
+        restTime: 30
+        instructions: "Core stability and hip flexor mobility. Support heavy squatting."
+        equipment: "Bodyweight"
+        focus: "Core stability, hip mobility"

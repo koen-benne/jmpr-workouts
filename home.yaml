@@ -1,0 +1,125 @@
+name: "Home Power & Strength"
+description: "High-intensity work with injury prevention focus"
+estimatedDuration: 50
+phases:
+  - name: "Enhanced Warm-Up"
+    description: "Prepare for explosive work and activate stabilizers"
+    duration: 10
+    exercises:
+      - name: "Leg Swings & Hip Circles"
+        sets: 2
+        reps: "8 each direction"
+        restTime: 15
+        instructions: "Include ankle circles and calf stretches."
+        equipment: "Bodyweight"
+        
+      - name: "Glute Bridges"
+        sets: 2
+        reps: "12"
+        restTime: 30
+        instructions: "Activate glutes. Essential for knee stability in jumping."
+        equipment: "Bodyweight"
+        focus: "Glute activation"
+        
+      - name: "Bodyweight Squats"
+        sets: 2
+        reps: "10"
+        restTime: 30
+        instructions: "Full depth, perfect knee tracking. Movement quality focus."
+        equipment: "Bodyweight"
+
+  - name: "Strength Work"
+    description: "Max out 20kg equipment with injury prevention focus"
+    duration: 20
+    exercises:
+      - name: "Bulgarian Split Squats"
+        sets: 4
+        reps: "12 per leg"
+        restTime: 90
+        instructions: "Control descent, no knee valgus. Address imbalances."
+        equipment: "20kg weight"
+        focus: "Unilateral strength, knee stability"
+        
+      - name: "Single-Leg RDLs"
+        sets: 3
+        reps: "10 per leg"
+        restTime: 75
+        instructions: "Opposite hand holds weight. Focus on balance and hip stability."
+        equipment: "20kg weight"
+        focus: "Posterior chain, ankle stability"
+        
+      - name: "Goblet Squats"
+        sets: 4
+        reps: "15"
+        restTime: 60
+        instructions: "Full depth, pause at bottom. Perfect squat mechanics."
+        equipment: "20kg weight"
+        focus: "Movement quality"
+
+  - name: "Explosive Power"
+    description: "Plyometric work with landing focus"
+    duration: 12
+    exercises:
+      - name: "Jump Squats with Weight"
+        sets: 4
+        reps: "8"
+        restTime: 75
+        instructions: "10kg weight only. Focus on soft landings, knee alignment."
+        equipment: "10kg weight"
+        focus: "Explosive power, landing mechanics"
+        
+      - name: "Single-Leg Bounds"
+        sets: 3
+        reps: "6 per leg"
+        restTime: 60
+        instructions: "Maximum distance, 3-second hold on landing. Perfect control."
+        equipment: "Bodyweight"
+        focus: "Reactive strength, proprioception"
+
+  - name: "Power Endurance"
+    description: "Maintain power under fatigue"
+    duration: 5
+    exercises:
+      - name: "Burpee Broad Jumps"
+        sets: 3
+        reps: "6"
+        restTime: 45
+        instructions: "Focus on landing quality even when fatigued."
+        equipment: "Bodyweight"
+        focus: "Power endurance, fatigue resistance"
+
+  - name: "Injury Prevention Finisher"
+    description: "Address key injury risk areas"
+    duration: 8
+    exercises:
+      - name: "Single-Leg Calf Raises"
+        sets: 2
+        reps: "15 per leg"
+        restTime: 30
+        instructions: "Slow and controlled. Achilles and calf resilience."
+        equipment: "Bodyweight"
+        focus: "Achilles health"
+        
+      - name: "Wall Angels"
+        sets: 2
+        reps: "12"
+        restTime: 30
+        instructions: "Back against wall, arm slides. Shoulder blade mobility."
+        equipment: "Wall"
+        focus: "Shoulder mobility"
+        
+      - name: "Hip Flexor Stretch Hold"
+        sets: 2
+        reps: "30 seconds per leg"
+        restTime: 15
+        instructions: "Lunge position hold. Counter sitting and squatting tightness."
+        equipment: "Bodyweight"
+        focus: "Hip mobility"
+        
+      - name: "Single-Leg Balance Challenge"
+        sets: 2
+        reps: "20 seconds per leg"
+        restTime: 30
+        instructions: "Eyes closed progression. Improve proprioception."
+        equipment: "Bodyweight"
+        focus: "Ankle stability, injury prevention"
