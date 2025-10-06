@@ -12,6 +12,7 @@ phases:
         restTime: 15
         instructions: "Include ankle circles and calf stretches."
         equipment: "Bodyweight"
+        requiresWeight: false
         
       - name: "Glute Bridges"
         sets: 2
@@ -20,6 +21,7 @@ phases:
         instructions: "Activate glutes. Essential for knee stability in jumping."
         equipment: "Bodyweight"
         focus: "Glute activation"
+        requiresWeight: false
         
       - name: "Bodyweight Squats"
         sets: 2
@@ -27,6 +29,7 @@ phases:
         restTime: 30
         instructions: "Full depth, perfect knee tracking. Movement quality focus."
         equipment: "Bodyweight"
+        requiresWeight: false
 
   - name: "Strength Work"
     description: "Max out 20kg equipment with injury prevention focus"
@@ -39,6 +42,7 @@ phases:
         instructions: "Control descent, no knee valgus. Address imbalances."
         equipment: "20kg weight"
         focus: "Unilateral strength, knee stability"
+        requiresWeight: true
         
       - name: "Single-Leg RDLs"
         sets: 3
@@ -47,6 +51,7 @@ phases:
         instructions: "Opposite hand holds weight. Focus on balance and hip stability."
         equipment: "20kg weight"
         focus: "Posterior chain, ankle stability"
+        requiresWeight: true
         
       - name: "Goblet Squats"
         sets: 4
@@ -55,6 +60,7 @@ phases:
         instructions: "Full depth, pause at bottom. Perfect squat mechanics."
         equipment: "20kg weight"
         focus: "Movement quality"
+        requiresWeight: true
 
   - name: "Explosive Power"
     description: "Plyometric work with landing focus"
@@ -67,6 +73,7 @@ phases:
         instructions: "10kg weight only. Focus on soft landings, knee alignment."
         equipment: "10kg weight"
         focus: "Explosive power, landing mechanics"
+        requiresWeight: true
         
       - name: "Single-Leg Bounds"
         sets: 3
@@ -75,6 +82,7 @@ phases:
         instructions: "Maximum distance, 3-second hold on landing. Perfect control."
         equipment: "Bodyweight"
         focus: "Reactive strength, proprioception"
+        requiresWeight: false
 
   - name: "Power Endurance"
     description: "Maintain power under fatigue"
@@ -87,6 +95,7 @@ phases:
         instructions: "Focus on landing quality even when fatigued."
         equipment: "Bodyweight"
         focus: "Power endurance, fatigue resistance"
+        requiresWeight: false
 
   - name: "Injury Prevention Finisher"
     description: "Address key injury risk areas"
@@ -99,6 +108,7 @@ phases:
         instructions: "Slow and controlled. Achilles and calf resilience."
         equipment: "Bodyweight"
         focus: "Achilles health"
+        requiresWeight: false
         
       - name: "Wall Angels"
         sets: 2
@@ -107,6 +117,7 @@ phases:
         instructions: "Back against wall, arm slides. Shoulder blade mobility."
         equipment: "Wall"
         focus: "Shoulder mobility"
+        requiresWeight: false
         
       - name: "Hip Flexor Stretch Hold"
         sets: 2
@@ -115,6 +126,7 @@ phases:
         instructions: "Lunge position hold. Counter sitting and squatting tightness."
         equipment: "Bodyweight"
         focus: "Hip mobility"
+        requiresWeight: false
         
       - name: "Single-Leg Balance Challenge"
         sets: 2
@@ -123,3 +135,4 @@ phases:
         instructions: "Eyes closed progression. Improve proprioception."
         equipment: "Bodyweight"
         focus: "Ankle stability, injury prevention"
+        requiresWeight: false

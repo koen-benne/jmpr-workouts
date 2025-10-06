@@ -12,6 +12,7 @@ phases:
         restTime: 15
         instructions: "Open up hips and activate glutes before squatting."
         equipment: "Bodyweight"
+        requiresWeight: false
         
       - name: "Bodyweight Squats"
         sets: 2
@@ -19,6 +20,7 @@ phases:
         restTime: 30
         instructions: "Full depth, focus on movement quality and knee tracking."
         equipment: "Bodyweight"
+        requiresWeight: false
         
       - name: "Glute Bridges"
         sets: 2
@@ -26,6 +28,7 @@ phases:
         restTime: 30
         instructions: "Activate glutes, squeeze at top. Essential for knee stability."
         equipment: "Bodyweight"
+        requiresWeight: false
         
       - name: "Band Pull-Aparts"
         sets: 2
@@ -34,6 +37,7 @@ phases:
         instructions: "Activate rear delts and rhomboids. Prepare shoulders."
         equipment: "Resistance band"
         focus: "Shoulder health"
+        requiresWeight: false
 
   - name: "Back Squat Progression"
     description: "Main strength movement"
@@ -46,6 +50,7 @@ phases:
         instructions: "Progressive loading: 50%, 65%, 75%, 85%, 92.5% of current max. Focus on knee tracking."
         equipment: "Barbell + plates"
         focus: "Maximal strength development"
+        requiresWeight: true
         
       - name: "Back Squat Work Sets"
         sets: 3
@@ -54,6 +59,7 @@ phases:
         instructions: "85-90% effort. Add weight weekly. Control descent, explosive drive."
         equipment: "Barbell + plates"
         focus: "Progressive overload"
+        requiresWeight: true
 
   - name: "Deadlift Work"
     description: "Posterior chain strength"
@@ -65,6 +71,7 @@ phases:
         restTime: 90
         instructions: "60%, 75% effort. Perfect hip hinge, protect lower back."
         equipment: "Barbell + plates"
+        requiresWeight: true
         
       - name: "Romanian Deadlift Work Sets"
         sets: 4
@@ -73,6 +80,7 @@ phases:
         instructions: "Heavy but controlled. Full stretch, explosive hip drive. Core tight."
         equipment: "Barbell + plates"
         focus: "Posterior chain power"
+        requiresWeight: true
 
   - name: "Accessory Work"
     description: "Supporting strength movements"
@@ -85,6 +93,7 @@ phases:
         instructions: "Focus on front leg, control knee tracking. Address imbalances."
         equipment: "Barbell or dumbbells"
         focus: "Unilateral strength, balance"
+        requiresWeight: true
         
       - name: "Walking Lunges"
         sets: 3
@@ -92,6 +101,7 @@ phases:
         restTime: 60
         instructions: "Focus on knee tracking and ankle stability."
         equipment: "Dumbbells"
+        requiresWeight: true
         
       - name: "Calf Raises"
         sets: 3
@@ -100,6 +110,7 @@ phases:
         instructions: "Full stretch at bottom, pause at top. Volleyball jump prep."
         equipment: "Barbell or machine"
         focus: "Jumping power, Achilles health"
+        requiresWeight: true
 
   - name: "Injury Prevention Finisher"
     description: "Address volleyball-specific injury risks"
@@ -112,6 +123,7 @@ phases:
         instructions: "Slow controlled movement. Address Achilles/calf resilience."
         equipment: "Bodyweight"
         focus: "Ankle stability, Achilles health"
+        requiresWeight: false
         
       - name: "Rotator Cuff External Rotations"
         sets: 2
@@ -120,6 +132,7 @@ phases:
         instructions: "Light weight, control the movement. Volleyball shoulder prep."
         equipment: "Light dumbbell"
         focus: "Shoulder health"
+        requiresWeight: true
         
       - name: "Plank to Pike"
         sets: 2
@@ -128,3 +141,4 @@ phases:
         instructions: "Core stability and hip flexor mobility. Support heavy squatting."
         equipment: "Bodyweight"
         focus: "Core stability, hip mobility"
+        requiresWeight: false

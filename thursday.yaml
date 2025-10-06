@@ -12,6 +12,7 @@ phases:
         restTime: 15
         instructions: "Include ankle circles. Prepare for jumping loads."
         equipment: "Bodyweight"
+        requiresWeight: false
         
       - name: "Arm Circles & Shoulder Rolls"
         sets: 2
@@ -19,6 +20,7 @@ phases:
         restTime: 15
         instructions: "Progress to volleyball arm swings. Spike motion prep."
         equipment: "Bodyweight"
+        requiresWeight: false
         
       - name: "Calf Raises to Toes"
         sets: 2
@@ -27,6 +29,7 @@ phases:
         instructions: "Rise to toes, hold 2 sec. Prep calves for jumping."
         equipment: "Bodyweight"
         focus: "Achilles preparation"
+        requiresWeight: false
 
   - name: "Explosive Activation"
     description: "Prime for practice performance"
@@ -39,6 +42,7 @@ phases:
         instructions: "Focus on landing quality. Soft, controlled landings."
         equipment: "Bodyweight"
         focus: "Neural activation, landing mechanics"
+        requiresWeight: false
         
       - name: "Lateral Bounds"
         sets: 3
@@ -47,6 +51,7 @@ phases:
         instructions: "Side-to-side explosive jumps. Stick each landing."
         equipment: "Bodyweight"
         focus: "Lateral power, ankle stability"
+        requiresWeight: false
         
       - name: "Approach Jump Practice"
         sets: 3
@@ -55,6 +60,7 @@ phases:
         instructions: "Full volleyball approach. Focus on knee alignment on landing."
         equipment: "Bodyweight"
         focus: "Sport-specific activation"
+        requiresWeight: false
 
   - name: "Volleyball Injury Prevention"
     description: "Address common volleyball injuries"
@@ -67,6 +73,7 @@ phases:
         instructions: "Small circles with straight arms. Prepare rotator cuffs."
         equipment: "Bodyweight"
         focus: "Shoulder injury prevention"
+        requiresWeight: false
         
       - name: "Single-Leg Balance Hold"
         sets: 2
@@ -75,3 +82,4 @@ phases:
         instructions: "Eyes closed if easy. Improve proprioception for landing."
         equipment: "Bodyweight"
         focus: "Ankle stability, injury prevention"
+        requiresWeight: false

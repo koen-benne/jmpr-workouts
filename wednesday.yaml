@@ -12,6 +12,7 @@ phases:
         restTime: 15
         instructions: "Front-back and side-side. Include ankle circles."
         equipment: "Bodyweight"
+        requiresWeight: false
         
       - name: "Glute Activation Walks"
         sets: 2
@@ -20,6 +21,7 @@ phases:
         instructions: "Mini band around ankles. Activate glutes for knee stability."
         equipment: "Mini band"
         focus: "Knee injury prevention"
+        requiresWeight: false
         
       - name: "Arm Circles & Shoulder Rolls"
         sets: 2
@@ -27,6 +29,7 @@ phases:
         restTime: 15
         instructions: "Prepare shoulders for overhead work and explosive movements."
         equipment: "Bodyweight"
+        requiresWeight: false
 
   - name: "Explosive Power Development"
     description: "Maximum power work with fresh CNS"
@@ -39,6 +42,7 @@ phases:
         instructions: "15-20kg dumbbell. Focus on landing quality - soft knees, control."
         equipment: "Dumbbell"
         focus: "Explosive power, landing mechanics"
+        requiresWeight: true
         
       - name: "Box Step-Ups (Explosive)"
         sets: 3
@@ -47,6 +51,7 @@ phases:
         instructions: "Drive knee up explosively, control descent. No knee valgus."
         equipment: "Box or bench"
         focus: "Single-leg power, knee stability"
+        requiresWeight: false
 
   - name: "Heavy Accessories"
     description: "Complement Tuesday's work with different movement patterns"
@@ -59,6 +64,7 @@ phases:
         instructions: "Different angle than Tuesday's back squats. Focus on upright torso, core engagement."
         equipment: "Barbell + plates"
         focus: "Quad strength, core stability"
+        requiresWeight: true
         
       - name: "Overhead Press"
         sets: 3
@@ -67,6 +73,7 @@ phases:
         instructions: "Standing press. Volleyball-specific overhead strength. Core tight."
         equipment: "Barbell + plates"
         focus: "Overhead power, shoulder stability"
+        requiresWeight: true
         
       - name: "Heavy Walking Lunges"
         sets: 3
@@ -75,6 +82,7 @@ phases:
         instructions: "Barbell or heavy dumbbells. Focus on knee tracking and balance."
         equipment: "Barbell or heavy dumbbells"
         focus: "Unilateral strength, stability"
+        requiresWeight: true
 
   - name: "Transition Prep"
     description: "Prime for cardio workout, address tight areas"
@@ -87,6 +95,7 @@ phases:
         instructions: "High knees with pause. Open hip flexors for cardio work."
         equipment: "Bodyweight"
         focus: "Hip mobility"
+        requiresWeight: false
         
       - name: "Shoulder Blade Squeezes"
         sets: 2
@@ -95,3 +104,4 @@ phases:
         instructions: "Prepare for upper body work in main session. Counter overhead tightness."
         equipment: "Bodyweight"
         focus: "Shoulder stability"
+        requiresWeight: false
