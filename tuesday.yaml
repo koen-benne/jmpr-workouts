@@ -2,41 +2,29 @@ name: "Tuesday Heavy Strength"
 description: "Main strength development day with injury prevention"
 estimatedDuration: 100
 phases:
+  - name: "Injury Prevention"
+    description: "Address jumping-specific injury risks"
+    duration: 10
+    exercises:
+      - name: "Knee Extension Isometrics"
+        sets: 2
+        reps: "30-45 seconds per leg"
+        restTime: 30
+        instructions: "70% effort"
+        equipment: "Kettle bell or machine"
+        focus: "Ankle stability, Achilles health"
+        requiresWeight: true
+
   - name: "Dynamic Warm-Up & Activation"
     description: "Prepare for heavy lifting and activate stabilizers"
     duration: 12
     exercises:
-      - name: "Leg Swings & Hip Circles"
-        sets: 2
-        reps: "10 each direction"
-        restTime: 15
-        instructions: "Open up hips and activate glutes before squatting."
-        equipment: "Bodyweight"
-        requiresWeight: false
-        
-      - name: "Bodyweight Squats"
+      - name: "Barbell Only Squats"
         sets: 2
         reps: "10"
         restTime: 30
         instructions: "Full depth, focus on movement quality and knee tracking."
-        equipment: "Bodyweight"
-        requiresWeight: false
-        
-      - name: "Glute Bridges"
-        sets: 2
-        reps: "12"
-        restTime: 30
-        instructions: "Activate glutes, squeeze at top. Essential for knee stability."
-        equipment: "Bodyweight"
-        requiresWeight: false
-        
-      - name: "Band Pull-Aparts"
-        sets: 2
-        reps: "15"
-        restTime: 30
-        instructions: "Activate rear delts and rhomboids. Prepare shoulders."
-        equipment: "Resistance band"
-        focus: "Shoulder health"
+        equipment: "Barbell"
         requiresWeight: false
 
   - name: "Back Squat Progression"
@@ -86,6 +74,15 @@ phases:
     description: "Supporting strength movements"
     duration: 18
     exercises:
+      - name: "Dumbbell Box Jumps"
+        sets: 3
+        reps: "10"
+        restTime: 90
+        instructions: "Focus on explosiveness, jump as high as possible."
+        equipment: "Barbell or dumbbells"
+        focus: "Explosiveness"
+        requiresWeight: true
+
       - name: "Bulgarian Split Squats"
         sets: 3
         reps: "8 per leg"
@@ -111,34 +108,3 @@ phases:
         equipment: "Barbell or machine"
         focus: "Jumping power, Achilles health"
         requiresWeight: true
-
-  - name: "Injury Prevention Finisher"
-    description: "Address volleyball-specific injury risks"
-    duration: 10
-    exercises:
-      - name: "Single-Leg Calf Raises"
-        sets: 2
-        reps: "12 per leg"
-        restTime: 30
-        instructions: "Slow controlled movement. Address Achilles/calf resilience."
-        equipment: "Bodyweight"
-        focus: "Ankle stability, Achilles health"
-        requiresWeight: false
-        
-      - name: "Rotator Cuff External Rotations"
-        sets: 2
-        reps: "15 per arm"
-        restTime: 45
-        instructions: "Light weight, control the movement. Volleyball shoulder prep."
-        equipment: "Light dumbbell"
-        focus: "Shoulder health"
-        requiresWeight: true
-        
-      - name: "Plank to Pike"
-        sets: 2
-        reps: "10"
-        restTime: 30
-        instructions: "Core stability and hip flexor mobility. Support heavy squatting."
-        equipment: "Bodyweight"
-        focus: "Core stability, hip mobility"
-        requiresWeight: false
